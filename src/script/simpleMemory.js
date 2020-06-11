@@ -308,7 +308,7 @@ function getVersionConfig() {
             }
         });
 
-    } else if(window.cnblogsConfig.GhUserName === 'BNDong') {
+    } else if(window.cnblogsConfig.GhUserName === 'ylighgh') {
         window.themeVersion = [
             [
                 "v1.1.6",
